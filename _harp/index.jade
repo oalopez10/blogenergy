@@ -1,0 +1,7 @@
+h1 Cinta en el dedo.
+h3 Notas de Johann Paul Echavarría Zapata.
+
+ul
+  each article, slug in public.ajedrez._data
+    li
+      a(href="/ajedrez/#{ slug }") #{ article.title }
