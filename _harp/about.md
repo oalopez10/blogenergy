@@ -2,9 +2,13 @@
 
 Johann Paul Echavarría Zapata
 
-Twitter: @Abrupto
+Redes sociales:
+    Twitter: @Abrupto
+    Stackoverflow: Katio
+    Github: Katio
 
-Stackoverflow: Katio
-
-Github: Katio
-
+Pasiones:
+    Ajedrez
+    Ingeniería de software
+    Innovación
+    Javascript
