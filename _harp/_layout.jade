@@ -5,12 +5,12 @@ html
     link(rel="stylesheet", href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css")
     //link(rel="stylesheet", href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css")
     //link(rel="stylesheet", href="/simplex.css")
-    link(rel="stylesheet", href="slate.css")
+    link(rel="stylesheet", href="/slate.css")
     link(rel="stylesheet", href="/custom.css")
   body
         != partial("_shared/nav")
 
-        div(class="container")
+        div(class="container mainContainer")
           != yield
         footer
           //!= partial("_shared/nav")
