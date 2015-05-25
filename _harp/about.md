@@ -3,9 +3,7 @@
 Johann Paul Echavarría Zapata
 
 Redes sociales:
-    * Twitter: @Abrupto
-    * Stackoverflow: Katio
-    * Github: Katio
+    Twitter: [@Abrupto](https://twitter.com/abrupto). Stackoverflow: [Johann Echavarría](http://stackoverflow.com/users/2391782/johann-echavarria). Github: [Katio](https://github.com/Katio).
 
 Pasiones:
     * Mi hijo.
